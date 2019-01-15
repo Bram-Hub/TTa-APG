@@ -1,0 +1,19 @@
+Symbol	Meaning
+
+1	Always true.
+
+0	Always false.
+
+~	Takes one postfix argument. True if the arugment is false, and false if the argument is true.
+
++	Takes two arguments. True if exactly one of the arguments is true, false otherwise.
+
+&	Takes two arguments. True if both of the arguments are true, false otherwise.
+
+|	Takes two arguments. True if either of the are true, false otherwise.
+
+->	Takes two arguments. False, if and only if the first term is true, and the second term is false.
+
+<->	Takes two arguments. True if both arguments are the same, false otherwise.
+
+/	Splits an expression, so that multiple expressions can be entered.
